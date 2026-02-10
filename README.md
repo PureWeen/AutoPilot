@@ -1,2 +1,1 @@
-# AutoPilot
-Moved To https://github.com/PureWeen/PolyPilot
+Project is now here https://github.com/PureWeen/PolyPilot
